@@ -1,8 +1,8 @@
 <Solution>
   <Folder Name="/src/">
-    <Project Path="src/DotDimension.Pathfinding/DotDimension.Pathfinding.csproj" />
+    <Project Path="src/DotDimension.Pathfinding/DotDimension.Pathfinding.csproj"/>
   </Folder>
   <Folder Name="/tests/">
-    <Project Path="tests/DotDimension.Pathfinding.Tests/DotDimension.Pathfinding.Tests.csproj" />
+    <Project Path="tests/DotDimension.Pathfinding.Tests/DotDimension.Pathfinding.Tests.csproj"/>
   </Folder>
 </Solution>
