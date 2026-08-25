@@ -1,0 +1,17 @@
+<Project>
+    <PropertyGroup>
+        <Nullable>enable</Nullable>
+        <LangVersion>latest</LangVersion>
+        <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+
+        <IsPackable>false</IsPackable>
+
+        <!-- Shared package metadata -->
+        <!--
+        <Authors>DotDimension</Authors>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/&lt;hesap&gt;/dotdimension</RepositoryUrl>
+        <PublishRepositoryUrl>true</PublishRepositoryUrl>
+        -->
+    </PropertyGroup>
+</Project>

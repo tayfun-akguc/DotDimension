@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.1;net8.0</TargetFrameworks>
+    <IsPackable>true</IsPackable>
+    <PackageId>DotDimension.Pathfinding</PackageId>
+    <Description>Zero-allocation grid and gate-graph pathfinding for tile-based worlds.</Description>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="\"/>
+    <InternalsVisibleTo Include="DotDimension.Pathfinding.Tests"/>
+  </ItemGroup>
+
+</Project>
