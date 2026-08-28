@@ -37,3 +37,5 @@
 - for a* use minHeap(logn)?? how to zero allocation?
 - d-ary heap (4 / 8) ????
 - try popFloyd for minheap??
+
+- MethodImplOptions.AggressiveInlining for performance (gridmap, gridlayout)
